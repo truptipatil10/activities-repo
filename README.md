@@ -7,7 +7,7 @@
 ![image](https://github.com/Kishor-C/activities-repo/assets/32559275/9c6dcac9-85eb-4583-9a5b-91fea7af0cbc)
 4. Copy that url and open the Git bash terminal in your machine, ensure you are opening a folder which is not part of any existing repository
 5. In the Git bash terminal enter the following command & hit enter, replace  &lt;url-copied&gt; with the URL what you copied from the &lt;&gt;Code button
-   git clone &lt;url-copied&gt;
+   a) git clone &lt;url-copied&gt;
 6. You must see a folder getting created which will have the same name of the repository you have in your account
 7. Save your projects inside this repository
 8. Once you are done with the project, push this project to your account following the below steps
