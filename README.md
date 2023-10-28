@@ -8,7 +8,7 @@
 4. Copy that url and open the Git bash terminal in your machine, ensure you are opening a folder which is not part of any existing repository
 5. In the Git bash terminal enter the following command & hit enter, replace  &lt;url-copied&gt; with the URL what you copied from the &lt;&gt;Code button
    ```
-   a) git clone &lt;url-copied&gt;
+   git clone <url-copied&gt>
    ```
 7. You must see a folder getting created which will have the same name of the repository you have in your account
 8. Save your projects inside this repository
@@ -16,11 +16,11 @@
 10. Open Git bash terminal in your machine inside the parent folder of the repository, parent folder is the folder which will have the name of the repository, if you are in any other location it may not work as expected
 11. Enter below git commands in the Git bash terminal
     ```
-    a) git add .
+    git add .
     # make sure you have entered a dot after git add & there's a space between git, add and a dot
-    b) git commit -m 'some message to describe what you are saving'
+    git commit -m 'some message to describe what you are saving'
     example: git commit -m 'final project'
-    c) git push -u origin master
+    git push -u origin master
     ```
 13. Now you must able to see the final project pushed in the Git Hub account
     Note: If you are using Git Bash for the first time, you will be asked to authenticate, you have to provide the required credentials and then perform the git commit & git push
