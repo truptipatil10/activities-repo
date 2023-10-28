@@ -8,7 +8,7 @@
 4. Copy that url and open the Git bash terminal in your machine, ensure you are opening a folder which is not part of any existing repository
 5. In the Git bash terminal enter the following command & hit enter, replace  &lt;url-copied&gt; with the URL what you copied from the &lt;&gt;Code button
    ```
-   git clone <url-copied&gt>
+   git clone <url-copied>
    ```
 7. You must see a folder getting created which will have the same name of the repository you have in your account
 8. Save your projects inside this repository
